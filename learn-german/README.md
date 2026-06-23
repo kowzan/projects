@@ -1,0 +1,3 @@
+# ANKI Flashcard Creator
+
+A Python script that generates ANKI flashcards from German sentences. It reads input from an external file `german_sentences.txt`, automatically translates each sentence into Polish, and creates audio using text-to-speech. The script then builds a complete ANKI deck (.apkg) with Polish (front), German (back), and pronunciation audio, making it easy to create structured study materials for language learning.
